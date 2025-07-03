@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Prueba-de-Desempe-o
+# Prueba-de-Desempeño
 =======
 # Integrated Inventory and Sales Management System with Dynamic Reports
 
